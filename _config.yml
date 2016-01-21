@@ -1,0 +1,28 @@
+name: Nanda
+favicon: null
+layout_spectrum: 0.5185398508328944
+typography_spectrum: 0.27524098264984787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.569236331153661
+  lightness: 0.6005678516812623
+  saturation: 0.10790920676663518
+  rhythmicContrast: 0.7309120318386704
+purpose: []
